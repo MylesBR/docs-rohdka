@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-5eqtlf.indocuan-vip.sbs/sitemap.xml
